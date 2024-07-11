@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-
 <h1>Hi, I'm Jason, an <a href="www.linkedin.com/in/jason-caputo-30ba5b316">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
